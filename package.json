@@ -11,6 +11,6 @@
   "author": "",
   "license": "AGPL-30-only",
   "devDependencies": {
-    "@types/node": "20.14.7"
+    "@types/node": "20.14.8"
   }
 }
